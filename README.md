@@ -1,6 +1,6 @@
 # python-keylogger
 
 
-## For Educations purpose eonly
+## For Educations purpose only
 
 ### keep learning...
